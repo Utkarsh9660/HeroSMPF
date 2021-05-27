@@ -1,6 +1,6 @@
 {
-	"ip":"SMP_Hero.aternos.me",
-	"port": "25717",
+	"ip":"HeroSMPF.aternos.me",
+	"port": "31365",
 	"name": "Bot",
 	"auto-night-skip":"true"
 }
